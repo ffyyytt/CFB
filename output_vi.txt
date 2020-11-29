@@ -1,5 +1,5 @@
-exp( 0.5 x ln(
 √
+căn bậc hai của
 -
 trừ
 x
