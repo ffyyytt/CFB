@@ -27,7 +27,7 @@ x
 một
 1
 nhân
-x
+*
 phần
 /
 chia
