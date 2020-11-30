@@ -4,7 +4,7 @@ căn bậc hai của
 trừ
 x
 nhân
-*
+\*
 nhân
 /
 chia
